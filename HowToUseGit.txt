@@ -16,6 +16,12 @@ Mkdir : directory 생성
 
 
 
+//vi 편집기
+입력모드 : i, a, o 입력모드 취소 esc
+vi 편집모드 나가기 : ":"키 누른후 w저장 q나가기 wq!
+
+
+
 
 //Git 명령어
 Git Status : 현재 Git File or Folder 상태 (Commit 됬는지 안됬는지)
