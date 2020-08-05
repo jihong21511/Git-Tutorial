@@ -1,0 +1,24 @@
+How To Use Git
+
+1. Git 회원가입 및 로그인
+
+2. Git Repository 생성
+
+3. Git Clone -> Git Add -> Git Commit -> Git Push
+
+
+
+//터미널 명령어
+Cd : 이동
+Pwd : 현재 디렉토리
+
+
+
+
+//Git 명령어
+Git Status : 현재 Git File or Folder 상태 (Commit 됬는지 안됬는지)
+Git Add : Local Repository에 추가
+Git Commit : 확정
+Git Push : Remote Repository에 추가
+
+ 
