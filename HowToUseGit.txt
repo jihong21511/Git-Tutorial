@@ -11,6 +11,8 @@ How To Use Git
 //터미널 명령어
 Cd : 이동
 Pwd : 현재 디렉토리
+Ls : file 목록
+Mkdir : directory 생성
 
 
 
