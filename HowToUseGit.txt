@@ -9,9 +9,9 @@ How To Use Git
 
 
 //터미널 명령어
-Cd : 이동
+Cd ..: 이동
 Pwd : 현재 디렉토리
-Ls : file 목록
+Ls -al : file 목록
 Mkdir : directory 생성
 
 
@@ -24,9 +24,17 @@ vi 편집모드 나가기 : ":"키 누른후 w저장 q나가기 wq!
 
 
 //Git 명령어
-Git Status : 현재 Git File or Folder 상태 (Commit 됬는지 안됬는지)
-Git Add : Local Repository에 추가
+Git Status : 현재 Git File or Folder 상태 (Add 됬는지 안됬는지)
+Git Add : file을 tracked 상태로 변환
 Git Commit : 확정
 Git Push : Remote Repository에 추가
-
+Git push origin branch name
+Git rm : file을 Untracked 상태로 변환
+Git log : Commit 내역 보여줌
+Git branch : git branch 목록 보여줌
+Git branch 'branchname' : branch 생성
+Git pull : 아직 ??
+Git fetch : 아직 ??
+Git clone : remote repository에 있는거 그대로 가져옴
+Git checkout 'branchname' : branch 바꾸기
  
