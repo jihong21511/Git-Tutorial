@@ -34,7 +34,7 @@ Git log : Commit 내역 보여줌
 Git branch : git branch 목록 보여줌
 Git branch 'branchname' : branch 생성
 Git pull : 새로운 커밋이있는 로컬 복사본을 업데이트하는 방법. 다른 사람과 공동 작업하는 경우 자주 실행하는 명령이다
-Git fetch : 아직 ??
+Git fetch : https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html
 Git clone : remote repository에 있는거 그대로 로컬로 가져옴
 Git checkout 'branchname' : branch 바꾸기
  
