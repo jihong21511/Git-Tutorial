@@ -1,16 +1,16 @@
-How To Use Git
+﻿How To Use Git
 
 1. Git 회원가입 및 로그인
 
 2. Git Repository 생성
 
-3. Git Clone -> Git Add -> Git Commit -> Git Push
+3. Git Clone -> Git Add -> Git Commit –m “Commit Context”-> Git Push
 
 
 
 //터미널 명령어
 Cd ..: 이동
-Pwd : 현재 디렉토리
+Pwd : 현재 디렉토리s
 Ls -al : file 목록
 Mkdir : directory 생성
 
