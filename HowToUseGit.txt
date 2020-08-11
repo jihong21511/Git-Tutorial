@@ -17,6 +17,7 @@ Mkdir : directory 생성
 
 
 //vi 편집기
+vi 수정할 txt file
 입력모드 : i, a, o 입력모드 취소 esc
 vi 편집모드 나가기 : ":"키 누른후 w저장 q나가기 wq!
 
