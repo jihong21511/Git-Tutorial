@@ -2,6 +2,8 @@
  
 //Git Pull Test ing
 
+Git Pull origin TEST //Remote repository -> Local repository 가져와서 합치기
+
 1. Git 회원가입 및 로그인
 
 2. Git Repository 생성
@@ -28,7 +30,7 @@ vi 편집모드 나가기 : ":"키 누른후 w저장 q나가기 wq!
 
 //Git 명령어
 Git Status : 현재 Git File or Folder 상태 (Add 됬는지 안됬는지)
-Git Add : file을 tracked 상태로 변환
+Git Add : file을 tracked 상태로 변환, 해당 파일을 staging 영역에 저장
 Git Commit : 확정
 Git Push : Remote Repository에 추가
 Git push origin branch name
@@ -40,4 +42,4 @@ Git pull : 새로운 커밋이있는 로컬 복사본을 업데이트하는 방�
 Git fetch : https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html
 Git clone : remote repository에 있는거 그대로 로컬로 가져옴
 Git checkout 'branchname' : branch 바꾸기
- 
+Git stash : 현재 디렉토리의 파일을 임시로 백업하고 깨끗한 상태로 돌린다, 현재 staging 영역에 있는 파일의 변경사항을스택에 넣어둔다.
