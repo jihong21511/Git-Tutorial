@@ -1,4 +1,6 @@
 ﻿How To Use Git
+ 
+//Git Pull Test ing
 
 1. Git 회원가입 및 로그인
 
