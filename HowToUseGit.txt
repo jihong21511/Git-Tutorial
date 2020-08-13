@@ -1,6 +1,7 @@
 ﻿How To Use Git
  
-//Git Pull Test ing
+//Git Pull Test
+//Git Reset Test
 
 Git Pull origin TEST //Remote repository -> Local repository 가져와서 합치기
 
