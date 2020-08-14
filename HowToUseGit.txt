@@ -45,4 +45,7 @@ Git fetch : https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html
 Git clone : remote repository에 있는거 그대로 로컬로 가져옴
 Git checkout 'branchname' : branch 바꾸기
 Git stash : 현재 디렉토리의 파일을 임시로 백업하고 깨끗한 상태로 돌린다, 현재 staging 영역에 있는 파일의 변경사항을스택에 넣어둔다.
-Git merge : branch + master 합병
+Git merge : branch + master 합병후 branch 사라짐
+
+//Git 단어
+fast-forward : merge 할 브랜치(merge 될 대상 브랜치)의 commit이 현재 branch(기준 브랜치, master브랜치)의 commit보다 앞서가 있는 경우, 기준브랜치의 커밋을 대상 브랜치 commit으로 이동하겠다는 의미
