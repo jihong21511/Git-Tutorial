@@ -2,7 +2,7 @@
  
 //Git Pull Test
 //Git Reset Test
-//Git branch 생성후 병합 TEST 예정
+//Git branch 생성후 병합 TEST 예정 i).git Merge 성공
 
 Git Pull origin TEST //Remote repository -> Local repository 가져와서 합치기
 
@@ -45,3 +45,4 @@ Git fetch : https://backlog.com/git-tutorial/kr/stepup/stepup3_2.html
 Git clone : remote repository에 있는거 그대로 로컬로 가져옴
 Git checkout 'branchname' : branch 바꾸기
 Git stash : 현재 디렉토리의 파일을 임시로 백업하고 깨끗한 상태로 돌린다, 현재 staging 영역에 있는 파일의 변경사항을스택에 넣어둔다.
+Git merge : branch + master 합병
