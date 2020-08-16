@@ -2,7 +2,7 @@
  
 //Git Pull Test
 //Git Reset Test
-//Git branch 생성후 병합 TEST 예정 i).git Merge 성공
+//Git branch 생성후 병합 TEST 예정 i).git Merge 성공 ii).git rebase 성공
 
 Git Pull origin TEST //Remote repository -> Local repository 가져와서 합치기
 
